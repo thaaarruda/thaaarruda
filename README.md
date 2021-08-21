@@ -1,9 +1,10 @@
 ### Hi There👋
 
 
-- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT
-- 😄 I speak English and Portuguese
-- ⚡ Fun fact: I love drink coffee
+-  🌱 I’m currently learning HTML,CSS and JAVASCRIPT
+-  📍  🇧🇷, currently live in Ireland
+-  😄 I speak English and Portuguese
+-  ⚡ Fun fact: I love drink coffee
 
  <div>
   <a href="https://github.com/thaaarruda">
