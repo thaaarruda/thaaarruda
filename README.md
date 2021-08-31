@@ -1,6 +1,5 @@
 ### Hi There👋
 
--   📍  🇧🇷, currently live in Ireland
 -   🌱 I’m currently learning HTML,CSS and JAVASCRIPT
 -   😄 I speak English and Portuguese
 -   ⚡ Fun fact: I’m a coffee-lover 
