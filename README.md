@@ -1,6 +1,7 @@
 ### Hi There👋
+I'm passion for learning and enthusiasm for development.
 
--   🌱 I’m currently learning HTML,CSS and JAVASCRIPT
+-   🌱  Knowledge in HTML5 semantics, CSS3, JavaScript and UI Desing.
 -   ⚡ Fun fact: I’m a coffee-lover 
 
  <div>
