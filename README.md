@@ -1,5 +1,6 @@
 ### Hi There👋
-I'm passion for learning and enthusiasm for development.
+
+I am passionate about learning new technologies and enthusiastic about development.
 
 -   🌱  Knowledge in HTML5 semantics, CSS3, JavaScript and UI Desing.
 -   ⚡ Fun fact: I’m a coffee-lover 
